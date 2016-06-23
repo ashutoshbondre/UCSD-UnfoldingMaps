@@ -49,7 +49,8 @@ public class LifeExpectancy extends PApplet {
 		shadeCountries();
 	}
 
-	public void draw() {
+	public void draw() 
+	{
 		// Draw map tiles and country markers
 		map.draw();
 	}
