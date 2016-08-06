@@ -21,7 +21,8 @@ import processing.core.PApplet;
  * MOOC team
  *
  */
-public class AirportMap extends PApplet {
+public class AirportMap extends PApplet 
+{
 	
 	UnfoldingMap map;
 	private List<Marker> airportList;
