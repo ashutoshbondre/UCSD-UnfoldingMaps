@@ -5,6 +5,7 @@ import processing.core.PGraphics;
 
 /** Implements a visual marker for ocean earthquakes on an earthquake map
  * 
+ * 
  * @author UC San Diego Intermediate Software Development MOOC team
  *
  */
