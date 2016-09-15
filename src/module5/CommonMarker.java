@@ -29,7 +29,8 @@ public abstract class CommonMarker extends SimplePointMarker {
 	}
 	
 	// Setter method for clicked field
-	public void setClicked(boolean state) {
+	public void setClicked(boolean state)
+	{
 		clicked = state;
 	}
 	
