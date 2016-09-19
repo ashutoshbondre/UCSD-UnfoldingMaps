@@ -7,7 +7,8 @@ import de.fhpotsdam.unfolding.utils.MapUtils;
  * 
  * This example uses a local MBTiles file. Thus, it does not need an Internet connection to load tiles.
  */
-public class OfflineMapApp extends PApplet {
+public class OfflineMapApp extends PApplet 
+{
 
 	public static String mbTilesString = "blankLight-1-3.mbtiles";
 
