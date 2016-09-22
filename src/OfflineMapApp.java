@@ -23,7 +23,8 @@ public class OfflineMapApp extends PApplet
 		map.setZoomRange(1, 3);
 	}
 
-	public void draw() {
+	public void draw() 
+	{
 		background(0);
 		map.draw();
 	}
