@@ -19,7 +19,8 @@ public class CityMarker extends SimplePointMarker
 	// It's a good idea to use this variable in your draw method
 	public static final int TRI_SIZE = 5;  
 	
-	public CityMarker(Location location) {
+	public CityMarker(Location location)
+	{
 		super(location);
 	}
 	
