@@ -97,11 +97,13 @@ public class EarthquakeCityMap extends PApplet
 	    
 	    for(PointFeature feature : earthquakes) {
 		  //check if LandQuake
-		  if(isLand(feature)) {
+		  if(isLand(feature)) 
+		  {
 		    quakeMarkers.add(new LandQuakeMarker(feature));
 		  }
 		  // OceanQuakes
-		  else {
+		  else 
+		  {
 		    quakeMarkers.add(new OceanQuakeMarker(feature));
 		  }
 	    }
