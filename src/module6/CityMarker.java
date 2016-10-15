@@ -11,7 +11,8 @@ import processing.core.PGraphics;
  * @author UC San Diego Intermediate Software Development MOOC team
  * 
  */
-public class CityMarker extends CommonMarker {
+public class CityMarker extends CommonMarker 
+{
 	
 	public static int TRI_SIZE = 5;  // The size of the triangle marker
 	
