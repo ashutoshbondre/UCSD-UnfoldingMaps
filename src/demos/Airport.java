@@ -43,7 +43,8 @@ public class Airport implements Comparable<Airport> {
 	public String getName() {
 		return name;
 	}
-	public String getCity() {
+	public String getCity()
+	{
 		return city;
 	}
 	public String getCountry() {
