@@ -9,7 +9,8 @@ import processing.core.PGraphics;
  * @author UC San Diego Intermediate Software Development MOOC team
  *
  */
-public class OceanQuakeMarker extends EarthquakeMarker {
+public class OceanQuakeMarker extends EarthquakeMarker
+{
 	
 	public OceanQuakeMarker(PointFeature quake) {
 		super(quake);
