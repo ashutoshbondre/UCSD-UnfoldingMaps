@@ -28,7 +28,8 @@ public class AirportMap extends PApplet
 	private List<Marker> airportList;
 	List<Marker> routeList;
 	
-	public void setup() {
+	public void setup() 
+	{
 		// setting up PAppler
 		size(800,600, OPENGL);
 		
