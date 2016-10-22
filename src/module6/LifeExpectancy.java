@@ -23,7 +23,8 @@ import de.fhpotsdam.unfolding.marker.Marker;
  * another CSV file (provided by the World Bank). The data value is encoded to transparency via a simplistic linear
  * mapping.
  */
-public class LifeExpectancy extends PApplet {
+public class LifeExpectancy extends PApplet 
+{
 
 	UnfoldingMap map;
 	HashMap<String, Float> lifeExpMap;
