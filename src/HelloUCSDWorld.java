@@ -12,7 +12,7 @@ import de.fhpotsdam.unfolding.utils.MapUtils;
  */
 public class HelloUCSDWorld extends PApplet {
 
-	UnfoldingMap map;d
+	UnfoldingMap map;
 
 	public void setup() {
 		size(800, 600, OPENGL);
