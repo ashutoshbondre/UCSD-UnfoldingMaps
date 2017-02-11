@@ -111,10 +111,10 @@ public class EarthquakeCityMap extends PApplet {
 		  }
 	    }
 
-	    // could be used for debugging
+	   
 	    printQuakes();
 	 		
-	    // (3) Add markers to map
+	    //    (3) Add markers to map
 	    //     NOTE: Country markers are not added to the map.  They are used
 	    //           for their geometric properties
 	    map.addMarkers(quakeMarkers);
