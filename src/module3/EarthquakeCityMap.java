@@ -29,7 +29,7 @@ import parsing.ParseFeed;
  * */
 public class EarthquakeCityMap extends PApplet {
 
-	// You can ignore this.  It's to keep eclipse from generating a warning.
+	
 	private static final long serialVersionUID = 1L;
 
 	// IF YOU ARE WORKING OFFLINE, change the value of this variable to true
