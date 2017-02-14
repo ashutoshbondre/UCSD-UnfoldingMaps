@@ -22,6 +22,7 @@ public class HelloWorld extends PApplet
 
 	// You can ignore this.  It's to keep eclipse from reporting a warning
 	private static final long serialVersionUID = 1L;
+	
 
 	/** This is where to find the local tiles, for working without an Internet connection */
 	public static String mbTilesString = "blankLight-1-3.mbtiles";
@@ -29,7 +30,6 @@ public class HelloWorld extends PApplet
 	// IF YOU ARE WORKING OFFLINE: Change the value of this variable to true
 	private static final boolean offline = false;
 	
-	/** The map we use to display our home town: La Jolla, CA */
 	UnfoldingMap map1;
 	
 	/** The map you will use to display your home town */ 
