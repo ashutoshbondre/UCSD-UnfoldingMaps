@@ -33,7 +33,7 @@ public abstract class EarthquakeMarker extends SimplePointMarker
 	/** Greater than or equal to this threshold is a deep depth */
 	public static final float THRESHOLD_DEEP = 300;
 
-	// ADD constants for colors
+	
 
 	
 	// abstract method implemented in derived classes
