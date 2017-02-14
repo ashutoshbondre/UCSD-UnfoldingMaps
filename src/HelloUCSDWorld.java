@@ -14,7 +14,9 @@ public class HelloUCSDWorld extends PApplet {
 
 	UnfoldingMap map;
 
-	public void setup() {
+	public void setup()
+	{
+		
 		size(800, 600, OPENGL);
 
 		map = new UnfoldingMap(this, new Google.GoogleTerrainProvider());
