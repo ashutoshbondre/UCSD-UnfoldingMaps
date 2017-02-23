@@ -26,6 +26,7 @@ import parsing.ParseFeed;
  * Author: UC San Diego Intermediate Software Development MOOC team
  * @author Ashutosh Bondre
  * Date: July 17, 2016
+ 
  * */
 public class EarthquakeCityMap extends PApplet {
 
