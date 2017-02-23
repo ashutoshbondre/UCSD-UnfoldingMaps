@@ -40,6 +40,7 @@ public class EarthquakeCityMap extends PApplet {
 	public static final float THRESHOLD_MODERATE = 5;
 	// Less than this threshold is a minor earthquake
 	public static final float THRESHOLD_LIGHT = 4;
+	
 	int yellow = color(255, 255, 0);
     int red = color(255,0,0);
     int blue = color(0,0,255);
