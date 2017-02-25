@@ -25,11 +25,13 @@ public class LandQuakeMarker extends EarthquakeMarker {
 	public void drawEarthquake(PGraphics pg, float x, float y) {
 		// Draws a centered circle for land quakes
 		float radius = (float)((double)getRadius()*0.75);
+		
 		pg.ellipse(x-radius,y-radius,radius*2,radius*2);
 	}
 
 	// Get the country the earthquake is in
-	public String getCountry() {
+	public String getCountry()
+	{
 		return (String) getProperty("country");
 	}		
 }
