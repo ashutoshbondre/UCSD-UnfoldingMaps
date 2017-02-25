@@ -7,7 +7,6 @@ import processing.core.PGraphics;
  * 
  * @author UC San Diego Intermediate Software Development MOOC team
  * @author 
- *
  */
 public class LandQuakeMarker extends EarthquakeMarker {
 	
